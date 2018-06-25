@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WaferDemo</string>
+    <string name="eu_country_list">EU country list</string>
+    <string name="delete">Delete</string>
+    <string name="cur">Cur:</string>
+    <string name="lang">Lang:</string>
+    <string name="todo">TODO</string>
+</resources>
